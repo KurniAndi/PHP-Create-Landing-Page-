@@ -1,3 +1,7 @@
+# Landing Page Company Profile With Materialize CSS
+
+A new PHP Studio project.
+
 <p align="center">
   <a href="http://materializecss.com/">
     <img src="http://materializecss.com/res/materialize.svg" width="150">
